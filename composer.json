@@ -1,0 +1,10 @@
+{
+    "name": "asus/php-project-lvl1",
+    "authors": [
+        {
+            "name": "Uzabila",
+            "email": "uzabila@yandex.ru"
+        }
+    ],
+    "require": {}
+}
